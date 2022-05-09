@@ -1,0 +1,6 @@
+numpy filter=lfs diff=lfs merge=lfs -text
+openpyxl filter=lfs diff=lfs merge=lfs -text
+pandas filter=lfs diff=lfs merge=lfs -text
+sklearn filter=lfs diff=lfs merge=lfs -text
+xgboost filter=lfs diff=lfs merge=lfs -text
+deepforest filter=lfs diff=lfs merge=lfs -text
